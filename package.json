@@ -1,0 +1,20 @@
+{
+  "name": "circle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Tests pass!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjlahr/circle-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjlahr/circle-test/issues"
+  },
+  "homepage": "https://github.com/tjlahr/circle-test#readme"
+}
